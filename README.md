@@ -4,7 +4,7 @@
 - 👨‍💻 All of my personal projects are available [here](https://portfolio-abdulmajeed33.vercel.app/projects).
 - 📝 Mostly, I write articles on [Medium](https://medium.com/@abdulmajeedamm33).
 - 📫 How to reach me: **abdulmajeedamm33@gmail.com**
-- 📄 Know about my experiences [here](https://docs.google.com/document/d/16LOrpAZwmfd54WounwZYPbOtLG8FnJFb/edit?usp=sharing&ouid=103617820623936406202&rtpof=true&sd=true).
+- 📄 Know about my experiences [CV](https://docs.google.com/document/d/16LOrpAZwmfd54WounwZYPbOtLG8FnJFb/edit?usp=sharing&ouid=103617820623936406202&rtpof=true&sd=true).
 - ⚡ Fun fact: **I love the complexity of JavaScript sometimes.**
 
 ### Connect with me:
