@@ -25,21 +25,36 @@ I’m a full stack engineer focused on building interactive, type-safe web appli
 
 ---
 
-### 💻 Technical Arsenal
-
-- **Frontend & Visualization:** Next.js (App Router), React, TypeScript, D3.js, TailwindCSS, HTML5, CSS3, React Query, Redux Toolkit  
-- **Backend & APIs:** Node.js, Express, NestJS, RESTful APIs, GraphQL  
-- **Databases:** PostgreSQL, MongoDB, MySQL, SQLite  
-- **DevOps & Deployment:** Docker, AWS EC2, AWS S3, Google Cloud, GitHub Actions, NGINX, Certbot (SSL)  
-- **Productivity & Tooling:** Git, React Hook Form, Yup, Performance optimization, Responsive UI design  
-
----
-
 ### 📊 Selected Visualization Work
 
 - **Interactive Monitoring Dashboard** – Multi-chart D3.js dashboard for tracking real-time metrics.  
 - **Network & Hierarchical Views** – Force-directed and tree-based visualizations for exploring relationships and structures.  
 - **Timeline & Financial Visuals** – Custom scales and layouts for representing time-based and cash-flow data.  
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=abdulmajeed33&show_icons=true&theme=default&hide_border=true" 
+    alt="Abdul's GitHub stats" 
+    height="150"
+/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmajeed33&layout=compact&theme=default&hide_border=true" 
+    alt="Top languages" 
+    height="150"
+/>
+</p>
+
+<p align="left">
+  <img 
+    src="https://streak-stats.demolab.com?user=abdulmajeed33&theme=default&hide_border=true" 
+    alt="GitHub streak" 
+    height="150"
+/>
+</p>
 
 ---
 
