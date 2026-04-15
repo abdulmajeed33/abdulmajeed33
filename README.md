@@ -12,14 +12,20 @@ I’m a full stack engineer focused on building interactive, type-safe web appli
 📫 Reach me: **[abdulmajeedamm33@gmail.com](mailto:abdulmajeedamm33@gmail.com)**  
 🌐 [LinkedIn](https://www.linkedin.com/in/abdul-majeed-anis) · [GitHub](https://github.com/abdulmajeed33)
 
-<p align="left">
-  <a href="https://linkedin.com/in/abdul-majeed-anis" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-majeed-anis" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@abdulmajeedamm33" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdulmajeedamm33" height="30" width="40" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://linkedin.com/in/abdul-majeed-anis" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-majeed-anis" height="30" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://medium.com/@abdulmajeedamm33" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdulmajeedamm33" height="30" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
